@@ -63,6 +63,16 @@ Analyzes revenue trends across time, region, and product categories to identify 
 * More projects at the intersection of AI and business decision-making
 
 ---
+## 🚀 What I’m Looking For
+
+I’m currently seeking opportunities where I can apply data, marketing, and AI to drive measurable business impact.
+
+Interested in roles across:
+- Marketing Analytics  
+- Data Science  
+- AI-driven Strategy
+
+---
 
 ## Let’s Connect
 
