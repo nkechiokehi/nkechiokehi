@@ -1,6 +1,6 @@
 # Hi, I'm Nkechi ✌️
 
-There are no dumb questions when it comes to data — only missed insights. I answer those questions and translate data into decisions.
+There are no dumb questions when it comes to data, only missed insights. I answer those questions and translate data into decisions.
 
 My journey into analytics started with teaching. As an educator, I taught over 100+ students the fundamentals of marketing and business, helping them understand how strategy drives results.
 
