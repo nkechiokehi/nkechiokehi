@@ -66,5 +66,5 @@ Analyzes revenue trends across time, region, and product categories to identify 
 
 ## Let’s Connect
 
-* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkechinyeremokehi//)
+* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkechinyeremokehi/)
 * Open to opportunities in Marketing Analytics, Data Ananlytics, Data Science, and AI-driven roles
