@@ -68,8 +68,9 @@ Analyzes revenue trends across time, region, and product categories to identify 
 I’m currently seeking opportunities where I can apply data, marketing, and AI to drive measurable business impact.
 
 Interested in roles across:
-- Marketing Analytics  
-- Data Science  
+- Marketing Analytics
+- Data Analyst
+- Jr. Data Science  
 - AI-driven Strategy
 
 ---
@@ -77,4 +78,4 @@ Interested in roles across:
 ## Let’s Connect
 
 * [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkechinyeremokehi/)
-* Open to opportunities in Marketing Analytics, Data Ananlytics, Data Science, and AI-driven roles
+
